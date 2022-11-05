@@ -1,0 +1,20 @@
+.gold {
+    color : gold;
+}
+.silver{
+    color: silver;
+}
+.bronze{
+    color: brown
+}
+h2 {
+    color:darkblue
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/10/18/bb/1018bb633d5a677040a0c3020d2218c2.jpg);
+}
+.hw{
+    background-color: white;
+    border: 3px solid black;
+    opacity: 0.9;
+}
